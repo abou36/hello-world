@@ -1,1 +1,1 @@
-# Using Git is FUN!
+Using Git is FUN!
